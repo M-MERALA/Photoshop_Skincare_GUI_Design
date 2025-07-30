@@ -23,4 +23,4 @@ To design a **simple and appealing interface** that enhances the user experience
 ![Home Screen](Home_Screen.png.png)
 
 ### Product Details Screen
-![Product Screen](Project_Screen.png)
+![Product Screen](Product_Screen.png)
