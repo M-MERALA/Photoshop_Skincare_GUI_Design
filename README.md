@@ -20,7 +20,7 @@ To design a **simple and appealing interface** that enhances the user experience
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](Screenshots/Home_Screen.png.png)
+![Home Screen](Home_Screen.png.png)
 
 ### Product Details Screen
-![Product Screen](Screenshots/Project_Screen.png)
+![Product Screen](Project_Screen.png)
