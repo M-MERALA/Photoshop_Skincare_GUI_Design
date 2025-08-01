@@ -20,11 +20,11 @@ To design a **simple and appealing interface** that enhances the user experience
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screen3.png)
+![Home_Screen](screen3.png)
 ![Home Screen](Home_Screen.png.png)
 
 ### Product Details Screen
-![Product Screen](screen4.png)
+![Product_Screen](screen4.png)
 ![Product Screen](Product_Screen.png)
 
 
